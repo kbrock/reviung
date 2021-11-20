@@ -58,7 +58,7 @@ F 3 "~" H 6300 7300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L _reviung-kbd:ProMicro U1
+L kbd:ProMicro U1
 U 1 1 6051A543
 P 1800 5950
 F 0 "U1" H 1800 6987 60  0000 C CNN
@@ -146,7 +146,7 @@ NoConn ~ 1100 5700
 NoConn ~ 1100 6300
 NoConn ~ 2500 5200
 $Comp
-L _reviung-kbd:SW_PUSH RESET1
+L reviung34-rescue:SW_PUSH-_reviung-kbd RESET1
 U 1 1 6051CE8E
 P 5000 7300
 F 0 "RESET1" H 5000 7555 50  0000 C CNN
@@ -346,7 +346,7 @@ F 3 "" H 3700 5800 50  0001 C CNN
 $EndComp
 NoConn ~ 9100 5500
 $Comp
-L _reviung-kbd:SW_PUSH SW1
+L kbd:SW_PUSH SW1
 U 1 1 6052930F
 P 1500 1500
 F 0 "SW1" H 1500 1755 50  0000 C CNN
@@ -368,7 +368,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1800 1650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW6
+L kbd:SW_PUSH SW6
 U 1 1 6052B601
 P 1500 2150
 F 0 "SW6" H 1500 2405 50  0000 C CNN
@@ -390,7 +390,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1800 2300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW11
+L kbd:SW_PUSH SW11
 U 1 1 6052CF4B
 P 1500 2800
 F 0 "SW11" H 1500 3055 50  0000 C CNN
@@ -412,7 +412,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1800 2950 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW2
+L kbd:SW_PUSH SW2
 U 1 1 60530877
 P 2600 1500
 F 0 "SW2" H 2600 1755 50  0000 C CNN
@@ -434,7 +434,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2900 1650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW7
+L kbd:SW_PUSH SW7
 U 1 1 60530883
 P 2600 2150
 F 0 "SW7" H 2600 2405 50  0000 C CNN
@@ -456,7 +456,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2900 2300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW12
+L kbd:SW_PUSH SW12
 U 1 1 6053088F
 P 2600 2800
 F 0 "SW12" H 2600 3055 50  0000 C CNN
@@ -478,7 +478,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2900 2950 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW3
+L kbd:SW_PUSH SW3
 U 1 1 60536207
 P 3700 1500
 F 0 "SW3" H 3700 1755 50  0000 C CNN
@@ -500,7 +500,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4000 1650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW8
+L reviung34-rescue:SW_PUSH-_reviung-kbd SW8
 U 1 1 60536213
 P 3700 2150
 F 0 "SW8" H 3700 2405 50  0000 C CNN
@@ -522,7 +522,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4000 2300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW13
+L kbd:SW_PUSH SW13
 U 1 1 6053621F
 P 3700 2800
 F 0 "SW13" H 3700 3055 50  0000 C CNN
@@ -544,7 +544,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4000 2950 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW4
+L kbd:SW_PUSH SW4
 U 1 1 6053622B
 P 4800 1500
 F 0 "SW4" H 4800 1755 50  0000 C CNN
@@ -566,7 +566,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5100 1650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW9
+L kbd:SW_PUSH SW9
 U 1 1 60536237
 P 4800 2150
 F 0 "SW9" H 4800 2405 50  0000 C CNN
@@ -588,7 +588,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5100 2300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW14
+L kbd:SW_PUSH SW14
 U 1 1 60536243
 P 4800 2800
 F 0 "SW14" H 4800 3055 50  0000 C CNN
@@ -610,7 +610,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5100 2950 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW5
+L kbd:SW_PUSH SW5
 U 1 1 60540B4F
 P 5900 1500
 F 0 "SW5" H 5900 1755 50  0000 C CNN
@@ -632,7 +632,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6200 1650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW10
+L kbd:SW_PUSH SW10
 U 1 1 60540B5B
 P 5900 2150
 F 0 "SW10" H 5900 2405 50  0000 C CNN
@@ -654,7 +654,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6200 2300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW15
+L kbd:SW_PUSH SW15
 U 1 1 60540B67
 P 5900 2800
 F 0 "SW15" H 5900 3055 50  0000 C CNN
@@ -676,7 +676,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6200 2950 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW19
+L kbd:SW_PUSH SW19
 U 1 1 60540B73
 P 7000 1500
 F 0 "SW19" H 7000 1755 50  0000 C CNN
@@ -698,7 +698,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7300 1650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW23
+L kbd:SW_PUSH SW23
 U 1 1 60540B7F
 P 7000 2150
 F 0 "SW23" H 7000 2405 50  0000 C CNN
@@ -720,7 +720,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7300 2300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW27
+L kbd:SW_PUSH SW27
 U 1 1 60540B8B
 P 7000 2800
 F 0 "SW27" H 7000 3055 50  0000 C CNN
@@ -742,7 +742,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7300 2950 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW20
+L kbd:SW_PUSH SW20
 U 1 1 60540B97
 P 8100 1500
 F 0 "SW20" H 8100 1755 50  0000 C CNN
@@ -764,7 +764,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 8400 1650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW24
+L kbd:SW_PUSH SW24
 U 1 1 60540BA3
 P 8100 2150
 F 0 "SW24" H 8100 2405 50  0000 C CNN
@@ -786,7 +786,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 8400 2300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW28
+L kbd:SW_PUSH SW28
 U 1 1 60540BAF
 P 8100 2800
 F 0 "SW28" H 8100 3055 50  0000 C CNN
@@ -808,7 +808,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 8400 2950 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW21
+L kbd:SW_PUSH SW21
 U 1 1 60540BBB
 P 9200 1500
 F 0 "SW21" H 9200 1755 50  0000 C CNN
@@ -830,7 +830,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 9500 1650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW25
+L kbd:SW_PUSH SW25
 U 1 1 60540BC7
 P 9200 2150
 F 0 "SW25" H 9200 2405 50  0000 C CNN
@@ -852,7 +852,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 9500 2300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW29
+L kbd:SW_PUSH SW29
 U 1 1 60540BD3
 P 9200 2800
 F 0 "SW29" H 9200 3055 50  0000 C CNN
@@ -874,7 +874,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 9500 2950 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW22
+L kbd:SW_PUSH SW22
 U 1 1 60544E37
 P 10300 1500
 F 0 "SW22" H 10300 1755 50  0000 C CNN
@@ -896,7 +896,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 10600 1650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW26
+L kbd:SW_PUSH SW26
 U 1 1 60544E43
 P 10300 2150
 F 0 "SW26" H 10300 2405 50  0000 C CNN
@@ -918,7 +918,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 10600 2300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW30
+L kbd:SW_PUSH SW30
 U 1 1 60544E4F
 P 10300 2800
 F 0 "SW30" H 10300 3055 50  0000 C CNN
@@ -940,7 +940,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 10600 2950 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW35
+L kbd:SW_PUSH SW35
 U 1 1 6054F871
 P 6450 3800
 F 0 "SW35" H 6450 4055 50  0000 C CNN
@@ -951,7 +951,7 @@ F 3 "" H 6450 3800 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW16
+L kbd:SW_PUSH SW16
 U 1 1 6054F87D
 P 3700 3450
 F 0 "SW16" H 3700 3705 50  0000 C CNN
@@ -973,7 +973,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4000 3600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW17
+L kbd:SW_PUSH SW17
 U 1 1 6054F889
 P 4800 3450
 F 0 "SW17" H 4800 3705 50  0000 C CNN
@@ -995,7 +995,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5100 3600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW18
+L kbd:SW_PUSH SW18
 U 1 1 6054F895
 P 5750 3800
 F 0 "SW18" H 5750 4055 50  0000 C CNN
@@ -1017,7 +1017,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6100 4050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW31
+L kbd:SW_PUSH SW31
 U 1 1 6054F8A1
 P 7000 3450
 F 0 "SW31" H 7000 3705 50  0000 C CNN
@@ -1039,7 +1039,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7300 3600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW32
+L kbd:SW_PUSH SW32
 U 1 1 6054F8AD
 P 8100 3450
 F 0 "SW32" H 8100 3705 50  0000 C CNN
@@ -1061,7 +1061,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 8400 3600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW33
+L kbd:SW_PUSH SW33
 U 1 1 6054F8B9
 P 9200 3450
 F 0 "SW33" H 9200 3705 50  0000 C CNN
@@ -1083,7 +1083,7 @@ F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 9500 3600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L _reviung-kbd:SW_PUSH SW34
+L kbd:SW_PUSH SW34
 U 1 1 6054F8C5
 P 10300 3450
 F 0 "SW34" H 10300 3705 50  0000 C CNN

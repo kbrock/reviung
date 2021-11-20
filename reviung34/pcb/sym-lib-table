@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name reviung34-rescue)(type Legacy)(uri ${KIPRJMOD}/reviung34-rescue.lib)(options "")(descr ""))
+  (lib (name kbd)(type Legacy)(uri /Users/kbrock/projects/keyboard/reviung/kbd/kicad-symbols/kbd.lib)(options "")(descr ""))
+  (lib (name keebio)(type Legacy)(uri /Users/kbrock/projects/keyboard/reviung/keebio-components/keebio.lib)(options "")(descr ""))
+)
