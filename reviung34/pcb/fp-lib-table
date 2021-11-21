@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name kbd-footprints)(type KiCad)(uri /Users/kbrock/projects/keyboard/reviung/kbd/kicad-footprints/kbd.pretty)(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri /Users/kbrock/projects/keyboard/reviung/Keebio-Parts.pretty)(options "")(descr ""))
+)

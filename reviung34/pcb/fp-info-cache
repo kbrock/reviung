@@ -1,4 +1,4 @@
-12251887276186173
+12524542427694287
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -25346,6 +25346,1035 @@ solder jumper open
 0
 5
 3
+Keebio-Parts
+3_Pin_Jumper
+
+
+0
+9
+3
+Keebio-Parts
+4pin35mmAudio
+
+
+0
+6
+6
+Keebio-Parts
+AST1109MLTRQ
+Murata Buzzer http://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=PKMCS0909E4000-R1
+Murata Buzzer Beeper
+0
+2
+2
+Keebio-Parts
+AT90USB1286_TQFP_14mm
+64-Lead Plastic Thin Quad Flatpack (PF) - 14x14x1 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+64
+64
+Keebio-Parts
+ATMEGA32U4-AU
+
+
+0
+44
+44
+Keebio-Parts
+ArduinoProMicro
+
+
+0
+24
+24
+Keebio-Parts
+ArduinoProMicro-BackSide
+
+
+0
+24
+24
+Keebio-Parts
+ArduinoProMicro-Mini-USB
+
+
+0
+24
+24
+Keebio-Parts
+ArduinoProMicro-Mini-USB-No-Text
+
+
+0
+24
+24
+Keebio-Parts
+ArduinoProMicro-Mini-USB-ZigZag
+
+
+0
+24
+24
+Keebio-Parts
+ArduinoProMicro-TopSide
+
+
+0
+24
+24
+Keebio-Parts
+ArduinoProMicro-ZigZag
+
+
+0
+24
+24
+Keebio-Parts
+CUI_SJ-43614-SMT
+
+
+0
+4
+4
+Keebio-Parts
+C_0402
+Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)
+capacitor 0402
+0
+2
+2
+Keebio-Parts
+C_0603
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+Keebio-Parts
+Cherry-MX-Low-Profile
+
+
+0
+2
+2
+Keebio-Parts
+Crystal_SMD_2520-4pin_2.5x2.0mm
+SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package
+SMD SMT crystal
+0
+4
+4
+Keebio-Parts
+Crystal_SMD_3225-4pin_3.2x2.5mm
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+Keebio-Parts
+D_0805
+
+
+0
+2
+2
+Keebio-Parts
+D_SOD-323
+SOD-323
+SOD-323
+0
+2
+2
+Keebio-Parts
+D_SOD123
+
+
+0
+2
+2
+Keebio-Parts
+D_SOD123F
+
+
+0
+2
+2
+Keebio-Parts
+Diode
+
+
+0
+2
+2
+Keebio-Parts
+Diode-Hybrid-Back
+
+
+0
+6
+2
+Keebio-Parts
+Diode-dual
+
+
+0
+10
+2
+Keebio-Parts
+Diode-hybrid-3pad
+
+
+0
+6
+2
+Keebio-Parts
+Diode_Long
+
+
+0
+2
+2
+Keebio-Parts
+Elite-C
+
+
+0
+29
+29
+Keebio-Parts
+Elite-C-ZigZag
+
+
+0
+29
+29
+Keebio-Parts
+Elite-C-castellated-24pin
+
+
+0
+24
+24
+Keebio-Parts
+Elite-C-castellated-24pin-holes
+
+
+0
+48
+24
+Keebio-Parts
+Elite-C-castellated-29pin
+
+
+0
+29
+29
+Keebio-Parts
+Elite-C-castellated-29pin-holes
+
+
+0
+58
+29
+Keebio-Parts
+Epson_TSX-3225
+
+
+0
+4
+4
+Keebio-Parts
+Fuse_0805
+SMT, 2012, 0805
+SMT, 2012, 0805
+0
+2
+2
+Keebio-Parts
+HRO-TYPE-C-31-M-12-Assembly
+
+
+0
+16
+13
+Keebio-Parts
+Header-6-Pin-ZigZag
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row
+Through hole socket strip THT 1x06 2.54mm single row
+0
+6
+6
+Keebio-Parts
+Header-12-Pin-ZigZag
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row
+Through hole socket strip THT 1x06 2.54mm single row
+0
+12
+12
+Keebio-Parts
+Header-12-Pin-ZigZag-Square
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row
+Through hole socket strip THT 1x06 2.54mm single row
+0
+12
+12
+Keebio-Parts
+ICSP-Header
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row
+Through hole socket strip THT 1x06 2.54mm single row
+0
+6
+6
+Keebio-Parts
+ICSP-Header-ZigZag
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row
+Through hole socket strip THT 1x06 2.54mm single row
+0
+6
+6
+Keebio-Parts
+JUMPER_SMD_2DUB
+
+
+0
+12
+2
+Keebio-Parts
+KLJ-1102
+
+
+0
+2
+2
+Keebio-Parts
+Kailh-PG1350-1.5u
+
+
+0
+4
+4
+Keebio-Parts
+Kailh-PG1350-1.25u
+
+
+0
+4
+4
+Keebio-Parts
+Kailh-PG1350-1.25u-LED-flip
+
+
+0
+4
+4
+Keebio-Parts
+Kailh-PG1350-1u
+
+
+0
+4
+4
+Keebio-Parts
+Kailh-PG1350-1u-No-Clickhole
+
+
+0
+4
+4
+Keebio-Parts
+Kailh-PG1350-1u-NoLED
+
+
+0
+2
+2
+Keebio-Parts
+Kailh-PG1350-1u-reversible
+
+
+0
+5
+4
+Keebio-Parts
+Kailh-PG1350-1u-reversible-No-Clickhole
+
+
+0
+5
+4
+Keebio-Parts
+Kailh-PG1350-1u-reversible-flip
+
+
+0
+5
+4
+Keebio-Parts
+Kailh-PG1350-2.5u
+
+
+0
+4
+4
+Keebio-Parts
+Kailh-PG1350-2u
+
+
+0
+4
+4
+Keebio-Parts
+Kailh-PG1350-2u-NoLED
+
+
+0
+2
+2
+Keebio-Parts
+Kailh-PG1350-2u-Vert-NoLED
+
+
+0
+2
+2
+Keebio-Parts
+LED_3mm
+
+
+0
+2
+2
+Keebio-Parts
+LQFP-48_7x7mm_Pitch0.5mm
+48 LEAD LQFP 7x7mm (see MICREL LQFP7x7-48LD-PL-1.pdf)
+QFP 0.5
+0
+48
+48
+Keebio-Parts
+Low-Profile-Choc-MX
+
+
+0
+5
+4
+Keebio-Parts
+MD_Diode
+
+
+0
+2
+2
+Keebio-Parts
+MX-Alps-Choc-1U
+
+
+0
+8
+4
+Keebio-Parts
+MX-Alps-Choc-1U-No-Clickhole
+
+
+0
+8
+4
+Keebio-Parts
+MX-Alps-Choc-1U-NoLED
+
+
+0
+6
+2
+Keebio-Parts
+MX-Alps-Choc-1U-NoLED-Alt
+
+
+0
+6
+2
+Keebio-Parts
+MX-Alps-Choc-2U
+
+
+0
+8
+4
+Keebio-Parts
+MX-Alps-Choc-2U-StabFlip
+
+
+0
+8
+4
+Keebio-Parts
+MX-Alps_DMask
+
+
+0
+2
+1
+Keebio-Parts
+MX-Alps_FMask
+
+
+0
+2
+1
+Keebio-Parts
+MX-Alps_FMask-2u
+
+
+0
+2
+1
+Keebio-Parts
+MX-Alps_Switch_Cutout
+
+
+0
+2
+1
+Keebio-Parts
+MX-Alps_Switch_Cutout-1u_1.25u
+
+
+0
+0
+0
+Keebio-Parts
+MX-Alps_Switch_Cutout-1u_1.25u-3u-wide
+
+
+0
+0
+0
+Keebio-Parts
+MX-Alps_Switch_Cutout-1u_2u
+
+
+0
+2
+1
+Keebio-Parts
+MX-Alps_Switch_Cutout-3u-wide
+
+
+0
+0
+0
+Keebio-Parts
+MX-Quad
+MX/Alps footprint
+
+0
+8
+2
+Keebio-Parts
+MX_FMask
+
+
+0
+2
+1
+Keebio-Parts
+MX_FMask-2u
+
+
+0
+3
+1
+Keebio-Parts
+MX_FMask-2u-with-cutout
+
+
+0
+2
+1
+Keebio-Parts
+MX_FMask-with-cutout
+
+
+0
+2
+1
+Keebio-Parts
+MX_LED
+
+
+0
+2
+2
+Keebio-Parts
+MX_Stabilizer_Cutout
+
+
+0
+0
+0
+Keebio-Parts
+MX_Stabilizer_Cutout-2u
+
+
+0
+0
+0
+Keebio-Parts
+MX_Switch_Cutout
+
+
+0
+0
+0
+Keebio-Parts
+MX_Switch_Mod_Cutout
+
+
+0
+0
+0
+Keebio-Parts
+Mini-USB
+
+
+0
+7
+6
+Keebio-Parts
+MountingHole
+
+
+0
+1
+0
+Keebio-Parts
+QFN-44-1EP_7x7mm_Pitch0.5mm
+UK Package; 44-Lead Plastic QFN (7mm x 7mm); (see Linear Technology QFN_44_05-08-1763.pdf)
+QFN 0.5
+0
+60
+45
+Keebio-Parts
+RGB-6028
+
+
+0
+4
+4
+Keebio-Parts
+RGB_3528_Blue_Notch
+RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
+LED 3227
+0
+4
+4
+Keebio-Parts
+RGB_3528_Blue_Notch-MX
+RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
+LED 3227
+0
+4
+4
+Keebio-Parts
+RGB_3528_Blue_Notch-MX-Flip
+RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
+LED 3227
+0
+4
+4
+Keebio-Parts
+R_0402
+Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0402
+0
+2
+2
+Keebio-Parts
+R_0603
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+Keebio-Parts
+R_0805
+SMT, 2012, 0805
+SMT, 2012, 0805
+0
+2
+2
+Keebio-Parts
+Resistor
+
+
+0
+2
+2
+Keebio-Parts
+Resistor-Compact
+
+
+0
+2
+2
+Keebio-Parts
+Resistor-Compact-1-side
+
+
+0
+2
+2
+Keebio-Parts
+Resistor-Hybrid
+
+
+0
+10
+2
+Keebio-Parts
+Resistor-Hybrid-Back
+
+
+0
+6
+2
+Keebio-Parts
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+Keebio-Parts
+RotaryEncoder_EC11
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+Keebio-Parts
+RotaryEncoder_EC11-no-legs
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+Keebio-Parts
+SK6812-MINI-E
+
+
+0
+4
+4
+Keebio-Parts
+SM0805D
+
+
+0
+2
+2
+Keebio-Parts
+SOIC-8_3.9x4.9mm_Pitch1.27mm
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+8
+8
+Keebio-Parts
+SOT-23
+SOT-23, Standard
+SOT-23
+0
+3
+3
+Keebio-Parts
+SOT-23_Handsoldering
+SOT-23, Handsoldering
+SOT-23
+0
+3
+3
+Keebio-Parts
+SOT-143B
+SOT143B
+
+0
+4
+4
+Keebio-Parts
+SOT-363_SC-70-6
+SOT-363, SC-70-6
+SOT-363 SC-70-6
+0
+6
+6
+Keebio-Parts
+SW_SPST_3x3
+Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
+SPST Tactile Switch
+0
+4
+2
+Keebio-Parts
+SW_SPST_TL3342
+Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
+SPST Tactile Switch
+0
+4
+2
+Keebio-Parts
+SW_Tactile_SPST_Angled_MJTP1117
+tactile switch SPST right angle, PTS645VL39-2 LFS
+tactile switch SPST angled PTS645VL39-2 LFS C&K Button
+0
+4
+2
+Keebio-Parts
+SW_Tactile_SPST_Angled_MJTP1117-no-mount
+tactile switch SPST right angle, PTS645VL39-2 LFS
+tactile switch SPST angled PTS645VL39-2 LFS C&K Button
+0
+2
+2
+Keebio-Parts
+SinglePad
+
+
+0
+1
+1
+Keebio-Parts
+SolderJumper
+
+
+0
+4
+3
+Keebio-Parts
+SolderJumperLeft
+
+
+0
+3
+3
+Keebio-Parts
+SolderJumperPair
+
+
+0
+6
+3
+Keebio-Parts
+SolderJumperRight
+
+
+0
+3
+3
+Keebio-Parts
+SolderJumperSet
+
+
+0
+12
+6
+Keebio-Parts
+SolderJumperSets
+
+
+0
+6
+2
+Keebio-Parts
+SolidCopper
+Mounting Hole 2.2mm, M2
+mounting hole 2.2mm m2
+0
+2
+1
+Keebio-Parts
+TQFP-44_10x10mm_Pitch0.8mm
+44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+44
+44
+Keebio-Parts
+TQFP-48_7x7mm_Pitch0.5mm
+48 LEAD TQFP 7x7mm (see MICREL TQFP7x7-48LD-PL-1.pdf)
+QFP 0.5
+0
+48
+48
+Keebio-Parts
+TRRS-PJ-320A
+
+
+0
+4
+4
+Keebio-Parts
+TRRS-PJ-320A-dual
+
+
+0
+5
+4
+Keebio-Parts
+TRRS-PJ-320A-no-Fmask
+
+
+0
+8
+4
+Keebio-Parts
+TRRS-PJ-320D
+
+
+0
+4
+4
+Keebio-Parts
+TRRS-PJ-605
+
+
+0
+6
+6
+Keebio-Parts
+TRRS-PJ-606
+
+
+0
+6
+6
+Keebio-Parts
+TRRS_Jack
+
+
+0
+6
+6
+Keebio-Parts
+TRRS_Jack-one-sided
+
+
+0
+4
+4
+Keebio-Parts
+TRRS_Jumper
+
+
+0
+6
+6
+Keebio-Parts
+Teensy_2.0
+
+
+0
+31
+31
+Keebio-Parts
+Triple-Dual-1u-LED
+
+
+0
+21
+4
+Keebio-Parts
+Triple-Dual-1u-LED-flip
+
+
+0
+21
+4
+Keebio-Parts
+Triple-Dual-2u-LED
+
+
+0
+21
+4
+Keebio-Parts
+Triple-Dual-2u-LED-stab-flip
+
+
+0
+21
+4
+Keebio-Parts
+USB-C-12-Pin-MidMount
+
+
+0
+16
+13
+Keebio-Parts
+USB-Mini-B_ LCSC-C46398
+
+
+0
+9
+6
+Keebio-Parts
+USB-Mini-B_2leg
+
+
+0
+7
+6
+Keebio-Parts
+USB_miniB_HandSolder
+http://www.hirose.co.jp/cataloge_hp/e24000019.pdf
+USB miniB hirose
+0
+9
+9
+Keebio-Parts
+VIA-0.6mm
+
+
+0
+1
+1
+Keebio-Parts
+WS2812B
+
+
+0
+4
+4
+Keebio-Parts
+breakaway-hole
+
+
+0
+0
+0
+Keebio-Parts
+breakaway-hole-big
+
+
+0
+0
+0
+Keebio-Parts
+breakaway-mousebites
+
+
+0
+0
+0
+Keebio-Parts
+solder_jumper
+
+
+0
+2
+2
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -51778,398 +52807,6 @@ transformer flyback
 0
 6
 6
-Transformer_THT
-Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30
-Autotransformer, Toroid, horizontal, laying, 1 Tap, Diameter 9mm, Amidon T30,
-Autotransformer Toroid horizontal laying 1 Tap Diameter 9mm Amidon T30 
-0
-3
-3
-Transformer_THT
-Autotransformer_Toroid_1Tap_Horizontal_D10.5mm_Amidon-T37
-Autotransformer, Toroid, horizontal, laying, 1 Tap, Diameter 10,5mm, Amidon T37,
-Autotransformer Toroid horizontal laying 1 Tap Diameter 10 5mm Amidon T37 
-0
-3
-3
-Transformer_THT
-Autotransformer_Toroid_1Tap_Horizontal_D12.5mm_Amidon-T44
-Autotransformer, Toroid, horizontal, laying, 1 Tap, Diameter 12,5mm, Amidon T44,
-Autotransformer Toroid horizontal laying 1 Tap Diameter 12 5mm Amidon T44 
-0
-3
-3
-Transformer_THT
-Autotransformer_Toroid_1Tap_Horizontal_D14.0mm_Amidon-T50
-Choke, Inductance, Autotransformer, Toroid, horizontal, laying, 1 Tap, Diameter 14mm, Amidon T50,
-Choke Inductance Autotransformer Toroid horizontal laying 1 Tap Diameter 14mm Amidon T50 
-0
-3
-3
-Transformer_THT
-Autotransformer_ZS1052-AC
-Ignition coil for xenon flash, http://www.excelitas.com/downloads/ZS1052ACH.pdf
-ignition coil autotransformer
-0
-3
-3
-Transformer_THT
-Transformer_37x44
-transformer 37x44mm²
-transformer 37x44mm²
-0
-12
-4
-Transformer_THT
-Transformer_Breve_TEZ-22x24
-http://www.breve.pl/pdf/ANG/TEZ_ang.pdf
-TEZ PCB Transformer
-0
-7
-7
-Transformer_THT
-Transformer_Breve_TEZ-28x33
-http://www.breve.pl/pdf/ANG/TEZ_ang.pdf
-TEZ PCB Transformer
-0
-9
-9
-Transformer_THT
-Transformer_Breve_TEZ-35x42
-http://www.breve.pl/pdf/ANG/TEZ_ang.pdf
-TEZ PCB Transformer
-0
-9
-9
-Transformer_THT
-Transformer_Breve_TEZ-38x45
-http://www.breve.pl/pdf/ANG/TEZ_ang.pdf
-TEZ PCB Transformer
-0
-9
-9
-Transformer_THT
-Transformer_Breve_TEZ-44x52
-http://www.breve.pl/pdf/ANG/TEZ_ang.pdf
-TEZ PCB Transformer
-0
-10
-10
-Transformer_THT
-Transformer_Breve_TEZ-47x57
-http://www.breve.pl/pdf/ANG/TEZ_ang.pdf
-TEZ PCB Transformer
-0
-13
-13
-Transformer_THT
-Transformer_CHK_EI30-2VA_1xSec
-Trafo, Printtrafo, CHK, EI30, 2VA, 1x Sec,http://www.eratransformers.com/downloads/030-7585.0.pdf
-Trafo Printtrafo CHK EI30 2VA 1x Sec 
-0
-10
-10
-Transformer_THT
-Transformer_CHK_EI30-2VA_2xSec
-Trafo, Printtrafo, CHK, EI30, 2VA, 2x Sec,
-Trafo Printtrafo CHK EI30 2VA 2x Sec 
-0
-10
-10
-Transformer_THT
-Transformer_CHK_EI30-2VA_Neutral
-Trafo, Printtrafo, CHK, EI30, 2VA, neutral,
-Trafo Printtrafo CHK EI30 2VA neutral 
-0
-10
-10
-Transformer_THT
-Transformer_CHK_EI38-3VA_1xSec
-Trafo, Printtrafo, CHK, EI38, 3VA, 1x Sec, http://www.eratransformers.com/product-detail/20
-Trafo Printtrafo CHK EI38 3VA 1x Sec 
-0
-10
-10
-Transformer_THT
-Transformer_CHK_EI38-3VA_2xSec
-Trafo, Printtrafo, CHK, EI38, 3VA, 2x Sec, http://www.eratransformers.com/product-detail/20
-Trafo Printtrafo CHK EI38 3VA 2x Sec 
-0
-10
-10
-Transformer_THT
-Transformer_CHK_EI38-3VA_Neutral
-Trafo, Printtrafo, CHK, EI38, 3VA, neutral, http://www.eratransformers.com/product-detail/20
-Trafo Printtrafo CHK EI42 3VA neutral 
-0
-10
-10
-Transformer_THT
-Transformer_CHK_EI42-5VA_1xSec
-Trafo, Printtrafo, CHK, EI42, 5VA, 1x Sec,
-Trafo Printtrafo CHK EI42 5VA 1x Sec 
-0
-10
-10
-Transformer_THT
-Transformer_CHK_EI42-5VA_2xSec
-Trafo, Printtrafo, CHK, EI42, 5VA, 2x Sec,
-Trafo Printtrafo CHK EI42 5VA 2x Sec 
-0
-10
-10
-Transformer_THT
-Transformer_CHK_EI42-5VA_Neutral
-Trafo, Printtrafo, CHK, EI42, 5VA, neutral,
-Trafo Printtrafo CHK EI42 5VA neutral 
-0
-10
-10
-Transformer_THT
-Transformer_CHK_EI48-8VA_1xSec
-Trafo, Printtrafo, CHK, EI48, 8VA, 1x Sec, http://www.eratransformers.com/product-detail/18
-Trafo Printtrafo CHK EI48 8VA 1x Sec 
-0
-12
-12
-Transformer_THT
-Transformer_CHK_EI48-8VA_2xSec
-Trafo, Printtrafo, CHK, EI48, 8VA, 2x Sec, http://www.eratransformers.com/product-detail/18
-Trafo Printtrafo CHK EI48 8VA 2x Sec 
-0
-12
-12
-Transformer_THT
-Transformer_CHK_EI48-8VA_Neutral
-Trafo, Printtrafo, CHK, EI48, 8VA, neutral, http://www.eratransformers.com/product-detail/18
-Trafo Printtrafo CHK EI48 8VA neutral 
-0
-12
-12
-Transformer_THT
-Transformer_CHK_EI48-10VA_1xSec
-Trafo, Printtrafo, CHK, EI48, 10VA, 1x Sec,
-Trafo Printtrafo CHK EI48 10VA 1x Sec 
-0
-12
-12
-Transformer_THT
-Transformer_CHK_EI48-10VA_2xSec
-Trafo, Printtrafo, CHK, EI48, 10VA, 2x Sec, http://www.eratransformers.com/product-detail/18
-Trafo Printtrafo CHK EI48 10VA 2x Sec 
-0
-12
-12
-Transformer_THT
-Transformer_CHK_EI48-10VA_Neutral
-Trafo, Printtrafo, CHK, EI48, 10VA, neutral, http://www.eratransformers.com/product-detail/18
-Trafo Printtrafo CHK EI48 10VA neutral 
-0
-12
-12
-Transformer_THT
-Transformer_CHK_EI54-12VA_1xSec
-Trafo, Printtrafo, CHK, EI54, 12VA, 1x Sec,http://www.eratransformers.com/product-detail/19
-Trafo Printtrafo CHK EI54 12VA 1x Sec 
-0
-14
-14
-Transformer_THT
-Transformer_CHK_EI54-12VA_2xSec
-Trafo, Printtrafo, CHK, EI54, 12VA, 2x Sec,http://www.eratransformers.com/product-detail/19
-Trafo Printtrafo CHK EI54 12VA 2x Sec 
-0
-14
-14
-Transformer_THT
-Transformer_CHK_EI54-12VA_Neutral
-Trafo, Printtrafo, CHK, EI54, 12VA, neutral,http://www.eratransformers.com/product-detail/19
-Trafo Printtrafo CHK EI54 12VA neutral 
-0
-14
-14
-Transformer_THT
-Transformer_CHK_EI54-16VA_1xSec
-Trafo, Printtrafo, CHK, EI54, 16VA, 1x Sec,http://www.eratransformers.com/product-detail/19
-Trafo Printtrafo CHK EI54 16VA 1x Sec 
-0
-14
-14
-Transformer_THT
-Transformer_CHK_EI54-16VA_2xSec
-Trafo, Printtrafo, CHK, EI54, 16VA, 2x Sec,http://www.eratransformers.com/product-detail/19
-Trafo Printtrafo CHK EI54 16VA 2x Sec 
-0
-14
-14
-Transformer_THT
-Transformer_CHK_EI54-16VA_Neutral
-Trafo, Printtrafo, CHK, EI54, 16VA, neutral,http://www.eratransformers.com/product-detail/19
-Trafo Printtrafo CHK EI54 16VA neutral 
-0
-14
-14
-Transformer_THT
-Transformer_CHK_UI30-4VA_Flat
-Trafo, Flattrafo, CHK, UI30, 4VA,
-Trafo Flattrafo CHK UI30 4VA 
-0
-16
-16
-Transformer_THT
-Transformer_CHK_UI39-10VA_Flat
-Trafo, Flattrafo, CHK, UI39, 10VA,
-Trafo Flattrafo CHK UI39 10VA 
-0
-20
-20
-Transformer_THT
-Transformer_Coilcraft_Q4434-B_Rhombus-T1311
-Transformator, Transformer, Flyback, Coilcraft Q4434-B, Rgombus T1311,
-Transformator Transformer Flyback Coilcraft Q4434-B Rgombus T1311 
-0
-8
-8
-Transformer_THT
-Transformer_EPCOS_B66359A1013T_Horizontal
-Transformer, Transformator, ETD29, 13 Pin, Horizontal, EPCOS-B66359A1013T,
-Transformer Transformator ETD29 13 Pin Horizontal EPCOS-B66359A1013T 
-0
-13
-13
-Transformer_THT
-Transformer_EPCOS_B66359J1014T_Vertical
-Transformer, Transformator, ETD29, 14 Pin, Vertical, EPCOS-B66359J1014T,
-Transformer Transformator ETD29 14 Pin Vertical EPCOS-B66359J1014T 
-0
-14
-14
-Transformer_THT
-Transformer_Microphone_Lundahl_LL1538
-AUDIO TRAFO LUNDAHL, https://www.lundahltransformers.com/wp-content/uploads/datasheets/1538_8xl.pdf
-AUDIO TRAFO LUNDAHL
-0
-7
-7
-Transformer_THT
-Transformer_Microphone_Lundahl_LL1587
-AUDIO TRAFO LUNDAHL, https://www.lundahltransformers.com/wp-content/uploads/datasheets/1587.pdf
-AUDIO TRAFO LUNDAHL
-0
-7
-7
-Transformer_THT
-Transformer_Myrra_74040_Horizontal
-Transformer, Transformator, ETD29, 13 Pin, Horizontal, Myrra-74040,
-Transformer Transformator ETD29 13 Pin Horizontal Myrra-74040 
-0
-13
-13
-Transformer_THT
-Transformer_Myrra_EF20_7408x
-EF20 flyback transformer,http://myrra.com/wp-content/uploads/2017/09/Datasheet-74087-74088-74089-rev-A.pdf
-transformer flyback SMPS
-0
-9
-9
-Transformer_THT
-Transformer_NF_ETAL_1-1_P1200
-NF-Transformer, 1:1, ETAL P1200,http://www.etalgroup.com/sites/default/files/products/P1200_April_2005.pdf
-NF-Transformer 1to1 ETAL P1200 
-0
-4
-4
-Transformer_THT
-Transformer_NF_ETAL_P1165
-NF-Transformer,  ETAL, P1165,http://www.etalgroup.com/sites/default/files/products/P1165_February_2006.pdf
-NF-Transformer ETAL P1165 
-0
-4
-4
-Transformer_THT
-Transformer_NF_ETAL_P3324
-NF-Transformer, ETAL P3324,http://www.etalgroup.com/sites/default/files/products/P3324_April_2005.pdf
-NF-Transformer ETAL P3324 
-0
-4
-4
-Transformer_THT
-Transformer_NF_ETAL_P3356
-NF-Transformer, ETAL P3356, http://www.etalgroup.com/sites/default/files/products/P3356_December_2005.pdf
-NF-Transformer ETAL P3356 
-0
-4
-4
-Transformer_THT
-Transformer_Toroid_Horizontal_D9.0mm_Amidon-T30
-Transformer, Toroid, horizontal, laying, Diameter 9mm, Amidon, T30,
-Transformer Toroid horizontal laying Diameter 9mm Amidon T30 
-0
-4
-4
-Transformer_THT
-Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37
-Transformer, Toroid, horizontal, laying, Diameter 10,5mm, Amidon T37,
-Transformer Toroid horizontal laying Diameter 10 5mm Amidon T37 
-0
-4
-4
-Transformer_THT
-Transformer_Toroid_Horizontal_D12.5mm_Amidon-T44
-Transformer, Toroid, horizontal, laying, Diameter 12,5mm, Amidon T44,
-Transformer Toroid horizontal laying Diameter 12 5mm Amidon T44 
-0
-4
-4
-Transformer_THT
-Transformer_Toroid_Horizontal_D14.0mm_Amidon-T50
-Transformer, Toroid, horizontal, laying, Diameter 14mm, Amidon T50,
-Transformer Toroid horizontal laying Diameter 14mm Amidon T50 
-0
-4
-4
-Transformer_THT
-Transformer_Toroid_Horizontal_D18.0mm
-Transformer, Toroid, tapped, horizontal, laying, Diameter 18mm, 
-Transformer Toroid tapped horizontal laying Diameter 18mm 
-0
-5
-4
-Transformer_THT
-Transformer_Toroid_Tapped_Horizontal_D9.0mm_Amidon-T30
-Transformer, Toroid, tapped, horizontal, laying, Diameter 9mm, Amidon, T30,
-Transformer Toroid tapped horizontal laying Diameter 9mm Amidon T30 
-0
-6
-6
-Transformer_THT
-Transformer_Toroid_Tapped_Horizontal_D10.5mm_Amidon-T37
-Transformer, Toroid, tapped, horizontal, laying, Diameter 10,5mm, Amidon, T37,
-Transformer Toroid tapped horizontal laying Diameter 10 5mm Amidon T37 
-0
-6
-6
-Transformer_THT
-Transformer_Toroid_Tapped_Horizontal_D12.5mm_Amidon-T44
-Transformer, Toroid, tapped, horizontal, laying, Diameter 12,5mm, Amidon, T44,
-Transformer Toroid tapped horizontal laying Diameter 12 5mm Amidon T44 
-0
-6
-6
-Transformer_THT
-Transformer_Toroid_Tapped_Horizontal_D14.0mm_Amidon-T50
-Transformer, Toroid, tapped, horizontal, laying, Diameter 14mm, Amidon T50,
-Transformer Toroid tapped horizontal laying Diameter 14mm Amidon T50 
-0
-6
-6
-Transformer_THT
-Transformer_Wuerth_750343373
-Transformer, horizontal core with bobbin, 10 pin, 3.81mm pitch, 15.24mm row spacing, 22x23x17.53mm (https://katalog.we-online.com/ctm/datasheet/750343373.pdf)
-transformer flyback
-0
-10
-10
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
@@ -52940,3 +53577,528 @@ varistor SIOV
 0
 2
 2
+kbd-footprints
+1pin_conn
+Resitance 3 pas
+R
+0
+1
+1
+kbd-footprints
+Breakaway_Tabs
+
+
+0
+0
+0
+kbd-footprints
+CherryMX_1u
+
+
+0
+2
+2
+kbd-footprints
+CherryMX_ChocV2_1.5u
+
+
+0
+5
+2
+kbd-footprints
+CherryMX_ChocV2_1u
+
+
+0
+5
+2
+kbd-footprints
+CherryMX_Choc_1.5u
+
+
+0
+4
+2
+kbd-footprints
+CherryMX_Choc_1u
+
+
+0
+4
+2
+kbd-footprints
+CherryMX_Choc_Hotswap
+
+
+0
+8
+2
+kbd-footprints
+CherryMX_Choc_Hotswap_1.5u
+
+
+0
+8
+2
+kbd-footprints
+CherryMX_Hotswap
+
+
+0
+2
+2
+kbd-footprints
+CherryMX_Hotswap_1.5u
+
+
+0
+2
+2
+kbd-footprints
+CherryMX_MidHeight_Choc_Hotswap
+
+
+0
+8
+2
+kbd-footprints
+CherryMX_MidHeight_Hotswap
+
+
+0
+4
+2
+kbd-footprints
+CherryMX_MidHeight_Hotswap_1.5u
+
+
+0
+4
+2
+kbd-footprints
+ChocV1_V2_Hotswap
+
+
+0
+3
+2
+kbd-footprints
+ChocV1_V2_Hotswap_1.5u
+
+
+0
+3
+2
+kbd-footprints
+D3_SMD
+Resitance 3 pas
+R
+0
+4
+2
+kbd-footprints
+D3_SMD_v2
+Resitance 3 pas
+R
+0
+2
+2
+kbd-footprints
+D3_TH
+Resitance 3 pas
+R
+0
+4
+2
+kbd-footprints
+D3_TH_SMD
+Resitance 3 pas
+R
+0
+6
+2
+kbd-footprints
+D3_TH_SMD_v2
+Resitance 3 pas
+R
+0
+4
+2
+kbd-footprints
+GND_pad
+
+
+0
+2
+2
+kbd-footprints
+HOLE
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+kbd-footprints
+IM_HOLE
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+kbd-footprints
+JP
+
+
+0
+3
+2
+kbd-footprints
+JPC2
+
+
+0
+3
+2
+kbd-footprints
+Jumper
+
+
+0
+2
+2
+kbd-footprints
+LED_WS2812B-PLCC4
+http://www.world-semi.com/uploads/soft/150522/1-150522091P5.pdf
+LED NeoPixel
+0
+4
+4
+kbd-footprints
+M2_HOLE
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+1
+0
+kbd-footprints
+M2_HOLE_v2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+kbd-footprints
+M2_HOLE_v3
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+9
+1
+kbd-footprints
+M2_Hole_NPTH_Outside
+
+
+0
+0
+0
+kbd-footprints
+M2_Hole_TH
+
+
+0
+1
+0
+kbd-footprints
+M2_Hole_TH_Outside
+
+
+0
+1
+0
+kbd-footprints
+M2_Threads_v2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+1
+0
+kbd-footprints
+MJ-4PP-9
+
+
+0
+8
+4
+kbd-footprints
+MJ-4PP-9_1side
+
+
+0
+4
+4
+kbd-footprints
+MX_ALPS_PG1350_noLed
+
+
+0
+11
+2
+kbd-footprints
+MX_ALPS_PG1350_noLed_1.75u
+
+
+0
+11
+2
+kbd-footprints
+OLED
+Connecteur 6 pins
+CONN DEV
+0
+4
+4
+kbd-footprints
+OLED_1side
+Connecteur 6 pins
+CONN DEV
+0
+4
+4
+kbd-footprints
+OLED_v2
+Connecteur 6 pins
+CONN DEV
+0
+4
+4
+kbd-footprints
+ProMicro_v2
+
+
+0
+48
+24
+kbd-footprints
+ProMicro_v2_1side
+
+
+0
+24
+24
+kbd-footprints
+ProMicro_v3
+
+
+0
+24
+24
+kbd-footprints
+ProMicro_v3.5
+
+
+0
+24
+24
+kbd-footprints
+R
+Resitance 3 pas
+R
+0
+2
+2
+kbd-footprints
+ResetSW
+
+
+0
+2
+2
+kbd-footprints
+ResetSW_1side
+
+
+0
+2
+2
+kbd-footprints
+ResetSW_4
+
+
+0
+4
+2
+kbd-footprints
+ResetSW_4P
+
+
+0
+4
+2
+kbd-footprints
+SK6812MINI_rev
+
+
+0
+8
+4
+kbd-footprints
+SK6812MINI_underglow_rev
+
+
+0
+8
+4
+kbd-footprints
+SW_Hole
+
+
+0
+0
+0
+kbd-footprints
+SW_Hole_ALPS
+
+
+0
+0
+0
+kbd-footprints
+SW_Hole_TH
+
+
+0
+4
+1
+kbd-footprints
+StripLED_1side
+
+
+0
+3
+3
+kbd-footprints
+StripLED_OUT_1side
+
+
+0
+1
+1
+kbd-footprints
+StripLED_rev
+
+
+0
+6
+3
+kbd-footprints
+YS-SK6812MINI-E
+
+
+0
+4
+4
+kbd-footprints
+corne
+
+
+0
+0
+0
+kbd-footprints
+corne-cherry-logo
+
+
+0
+0
+0
+kbd-footprints
+corne-horizontal
+
+
+0
+0
+0
+kbd-footprints
+corne-logo
+
+
+0
+0
+0
+kbd-footprints
+corne-logo-horizontal
+
+
+0
+0
+0
+kbd-footprints
+corne-logo-horizontal-mask
+
+
+0
+0
+0
+kbd-footprints
+corne-logo-silk
+
+
+0
+0
+0
+kbd-footprints
+corne-mask
+
+
+0
+0
+0
+kbd-footprints
+keyswitch_cherrymx_alps_choc12_1.5u
+
+
+0
+6
+2
+kbd-footprints
+keyswitch_cherrymx_alps_choc12_1u
+
+
+0
+6
+2
+kbd-footprints
+keyswitch_hole
+
+
+0
+2
+2
+kbd-footprints
+petit_split-logo
+
+
+0
+0
+0
+kbd-footprints
+spacer_m2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+kbd-footprints
+thread_m2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+kbd-footprints
+waffle
+
+
+0
+0
+0
